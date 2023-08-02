@@ -1,0 +1,154 @@
+#title{
+    background-color: #ff4c68;
+}
+/* body{ */
+    /* font-family: "Montserrat"; */
+/* } */
+h1{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    font-size: 3.5rem;
+    color: #fff;
+}
+h2{
+    line-height: 1.5;
+    font-size: 3rem;
+    font-family: "Montserrat";
+}
+h3{
+    font-family: "Montserrat";
+
+    font-size: 1.5rem;
+}
+p{
+    color: grey;
+}
+.navbar-brand{
+    font-size: 2.5rem;
+    font-family: "Ubuntu";
+    font-weight: bold;
+    padding: 0% 0% 4.5rem 0%;
+}
+.container-fluid{
+    padding: 3% 13% 3%;
+}
+.x{
+    /* padding: 2% 2%; */
+    margin: 5% 3% 15% 0%;
+}
+.nav-link{
+    font-size: 1.2rem;
+    /* font-weight: bold; */
+    font-family: "Montserrat-Light";
+
+}
+.icon{
+    padding: 5%;
+    color: #ef8172;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+
+.dog{
+    transform: rotate(25deg);
+    position: absolute;
+    width: 22%;
+    right: 25%;
+}
+
+.nav-item{
+    padding: 0px 18px 18px 18px;
+    position: relative;
+    bottom: 20px;
+    right: 90px;
+}
+#features{
+    padding: 7% 15%;
+    position: relative;
+   z-index: 1;
+   background-color: #fff;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+#testimonials{
+    text-align: center;
+    background-color:  #ef8172;
+    color: #fff;
+}
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 25px;
+}
+#press{
+    text-align: center;
+    padding-bottom: 5%;
+    background-color:  #ef8172;
+}
+.p-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+.card{
+    text-align: center;
+    
+    
+}
+#pricing{
+    padding: 7% 15%;
+    
+}
+/* .card-deck{
+    padding: 7px 15px;
+
+} */
+.m{
+    width: 100%;
+    font-weight: bold;
+}
+
+.card-deck{
+    padding: 3% 2% 3% 0%;
+}
+
+#cta{
+    background-color: #ff4c68;
+    padding: 7% 15%;
+    color: #fff;
+    font-family: "Montserrat";
+    text-align: center;
+
+}
+
+
+
+#footer{
+    background-color: white;
+text-align: center;
+padding: 7% 15%;
+margin-bottom: 0%;
+}
+
+.y{
+    margin: 2% 1% 0% 2%;
+    
+}
+@media(max-width: 1000px){
+    .dog{
+        position: static;
+        transform: rotate(0deg);
+        width: 40%;
+    }
+    .w{
+        text-align: center;
+    }
+}
+.w{
+    padding: 1% 1%;
+}
