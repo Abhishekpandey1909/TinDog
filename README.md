@@ -1,8 +1,6 @@
 # TinDog
-• Implemented user Login and Registration with authorization
-functionality.
-• Users can donate blood and there data will be stored in database of
-Hospital or Organization .
-• Blood group of different types are stored.
-• In case of need of Blood , User can search for quantity, Blood group
-type and the results are generated from the database on the UI
+• Tindog provides a platform for dog owners to connect, socialize,
+share experiences, and discover dog-friendly activities and places in
+their local area.
+• It aims to create a community of dog lovers and enhance the social
+life of both dogs and their owners.
